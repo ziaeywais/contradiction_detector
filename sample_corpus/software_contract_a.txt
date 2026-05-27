@@ -1,0 +1,86 @@
+SOFTWARE DEVELOPMENT AND LICENSING AGREEMENT
+
+Agreement Reference: SDA-2024-0847
+This Software Development and Licensing Agreement ("Agreement") is entered into as of March 15, 2024 ("Effective Date") by and between TechBuild Solutions LLC, a Delaware limited liability company ("Developer"), and Meridian Retail Group Inc., a California corporation ("Client").
+
+RECITALS
+
+WHEREAS, Developer is in the business of providing custom software development and technology consulting services; and
+
+WHEREAS, Client desires to engage Developer to design, develop, and deliver a custom inventory management platform; and
+
+NOW THEREFORE, in consideration of the mutual covenants and agreements herein, the parties agree as follows:
+
+ARTICLE 1: SERVICES AND DELIVERABLES
+
+1.1 Scope of Work. Developer shall design, develop, test, and deliver the software system described in Exhibit A attached hereto (the "Software"). The parties acknowledge that the detailed technical specifications may be refined during the discovery phase.
+
+1.2 Delivery Timeline. Developer shall deliver the completed Software within ninety (90) days of the Effective Date, unless an extension is mutually agreed upon in writing. Time is of the essence with respect to the delivery obligations in this Agreement.
+
+1.3 Acceptance Testing. Upon delivery, Client shall have fifteen (15) business days to conduct acceptance testing. If Client identifies material defects, Developer shall have thirty (30) days to remedy such defects at no additional charge.
+
+ARTICLE 2: COMPENSATION
+
+2.1 Development Fees. Client shall pay Developer a total fixed fee of $185,000 for the development services described in Article 1, payable as follows:
+   (a) $55,500 (30%) upon execution of this Agreement;
+   (b) $74,000 (40%) upon completion of Milestone 1 as defined in Exhibit A;
+   (c) $55,500 (30%) upon final acceptance of the Software.
+
+2.2 Expenses. Developer shall be reimbursed for pre-approved travel expenses up to $5,000.
+
+ARTICLE 3: INTELLECTUAL PROPERTY
+
+3.1 Work for Hire. The Software developed under this Agreement shall constitute a "work made for hire" within the meaning of the Copyright Act. All intellectual property rights in the Software shall vest exclusively in Client upon receipt of full payment.
+
+3.2 Developer's Pre-Existing IP. Notwithstanding Section 3.1, Developer retains all rights to its pre-existing frameworks, libraries, and tools. Developer grants Client a perpetual, irrevocable, non-exclusive license to use Developer's pre-existing IP as incorporated into the Software.
+
+ARTICLE 4: CONFIDENTIALITY
+
+4.1 Obligations. Each party agrees to hold the other party's Confidential Information in strict confidence and not to disclose it to any third party without prior written consent. Confidential Information shall be used solely for purposes of performing this Agreement.
+
+4.2 Duration. Confidentiality obligations shall survive termination of this Agreement for a period of three (3) years.
+
+ARTICLE 5: LIMITATION OF LIABILITY
+
+5.1 Limitation of Liability. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+5.2 Liability Cap. Each party's total aggregate liability to the other party arising out of or related to this Agreement shall not exceed the total fees paid or payable to Developer under this Agreement in the twelve (12) months immediately preceding the event giving rise to the claim.
+
+ARTICLE 6: TERM AND TERMINATION
+
+6.1 Term. This Agreement shall commence on the Effective Date and shall continue until the completion and acceptance of all deliverables, unless earlier terminated as provided herein.
+
+6.2 Termination for Convenience. Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+6.3 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches any provision of this Agreement and fails to cure such breach within fifteen (15) days of receiving written notice.
+
+6.4 Effects of Termination. Upon termination, Developer shall deliver all completed work product and work in progress to Client. Client shall pay for all work satisfactorily performed through the termination date.
+
+ARTICLE 7: DATA PROTECTION AND RETENTION
+
+7.1 Data Handling. Developer may receive access to Client's business data during the performance of services. Developer shall process such data solely for the purpose of performing its obligations under this Agreement.
+
+7.2 Data Retention. Developer shall retain copies of Client data and project documentation for a period of seven (7) years following the termination or expiration of this Agreement, to comply with applicable legal and regulatory requirements.
+
+7.3 Data Security. Developer shall implement and maintain reasonable technical and organizational measures to protect Client data against unauthorized access, alteration, or destruction.
+
+ARTICLE 8: GENERAL PROVISIONS
+
+8.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+8.2 Dispute Resolution. Any dispute arising under or in connection with this Agreement shall first be subject to good-faith negotiation for thirty (30) days. If unresolved, disputes shall be submitted to binding arbitration in San Francisco, California, under the rules of the American Arbitration Association.
+
+8.3 Entire Agreement. This Agreement, together with all Exhibits, constitutes the entire agreement between the parties with respect to its subject matter and supersedes all prior agreements, representations, and understandings.
+
+8.4 Amendments. No amendment to this Agreement shall be effective unless made in writing and signed by authorized representatives of both parties.
+
+SIGNATURES
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TECHBUILD SOLUTIONS LLC                    MERIDIAN RETAIL GROUP INC.
+
+By: _____________________                  By: _____________________
+Name: Sarah Chen                           Name: Robert Alvarez
+Title: Chief Executive Officer             Title: Vice President of Technology
+Date: March 15, 2024                       Date: March 15, 2024

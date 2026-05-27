@@ -1,0 +1,123 @@
+CLINICAL PRACTICE GUIDELINES
+Pain Management in Elderly Patients (≥65 Years)
+
+Prepared by: Regional Medical Standards Committee — Geriatric Subcommittee
+Review Cycle: Annual | Version 2.4 | Approved: February 2024
+
+PREAMBLE
+
+These guidelines apply specifically to patients aged 65 years and older. They are intended to be used alongside, and where specified they supersede, the general adult pain management guidelines. Elderly patients have distinct physiological characteristics that significantly alter the pharmacokinetics and pharmacodynamics of analgesic medications.
+
+Age-related changes relevant to analgesic prescribing include:
+- Reduced renal clearance (mean GFR declines approximately 1% per year after age 40)
+- Decreased hepatic metabolism
+- Altered volume of distribution due to increased body fat and decreased lean muscle mass
+- Reduced plasma protein binding leading to higher free drug concentrations
+- Increased central nervous system sensitivity to opioid effects
+- Higher prevalence of polypharmacy and drug interactions
+
+Given these changes, elderly patients are at substantially elevated risk for adverse drug effects compared with younger adults. Clinicians must exercise heightened caution with all analgesic prescriptions.
+
+CHAPTER 1: NON-OPIOID ANALGESICS IN ELDERLY PATIENTS
+
+1.1 NSAIDs — Important Precautions for Elderly Patients
+
+The routine use of NSAIDs in patients aged 65 and older is discouraged by the American Geriatrics Society (AGS) Beers Criteria due to increased risk of:
+- Gastrointestinal hemorrhage and peptic ulceration (risk 3–5× higher than in younger adults)
+- Acute kidney injury and accelerated progression of chronic kidney disease
+- Sodium and fluid retention leading to hypertension and congestive heart failure exacerbation
+- Increased cardiovascular event risk
+
+When NSAID therapy is deemed clinically necessary in elderly patients despite these risks, the following restrictions apply:
+
+1.1.1 Ibuprofen Dosing in Elderly Patients
+
+For patients aged 65 and older, the maximum recommended daily dose of ibuprofen is 1,200mg per day, administered in divided doses.
+
+The recommended starting dose is 200–400mg per dose. Doses should not exceed 400mg per individual administration. The dosing interval should be extended to every 8 hours (three times daily maximum) — rather than the 6-hourly dosing appropriate for younger adults — to account for reduced renal clearance.
+
+Duration of therapy must not exceed 3 days without formal reassessment by the prescribing physician. Extended NSAID use in elderly patients requires documented risk-benefit discussion with the patient and, where appropriate, involvement of a geriatric specialist.
+
+Proton pump inhibitor (PPI) co-prescription is mandatory for any elderly patient receiving NSAID therapy.
+
+1.1.2 Naproxen in Elderly Patients
+
+Naproxen is generally not recommended for patients over 65 due to its prolonged half-life, which increases accumulation risk in elderly patients with reduced renal clearance. If used, maximum daily dose is 500mg.
+
+1.1.3 Celecoxib as Alternative
+
+Celecoxib (a COX-2 selective inhibitor) may be considered as an alternative to non-selective NSAIDs in elderly patients with gastrointestinal risk factors. Standard dosing: 100–200mg once or twice daily. Note: cardiovascular risk remains elevated.
+
+1.2 Acetaminophen in Elderly Patients
+
+Acetaminophen is the preferred first-line analgesic for mild to moderate pain in elderly patients. Maximum daily dose is 3,000mg (reduced from 4,000mg for younger adults) to account for reduced hepatic reserve.
+
+For patients with hepatic impairment or significant alcohol use, maximum dose is 2,000mg per day.
+
+CHAPTER 2: DURATION OF TREATMENT — ELDERLY PATIENTS
+
+2.1 NSAID Therapy Duration
+
+As noted in Section 1.1.1, NSAID therapy in elderly patients must not exceed 3 days without reassessment. This is substantially shorter than the 7–10 day standard course for younger adults and reflects the significantly higher adverse event rate in this population.
+
+2.2 Monitoring Requirements
+
+All elderly patients initiated on NSAID therapy require:
+- Baseline renal function (BMP or CMP) before starting NSAIDs
+- Repeat renal function at 72 hours if continued
+- Blood pressure monitoring every 48 hours
+- Daily assessment for signs of fluid retention (edema, weight gain)
+
+CHAPTER 3: OPIOID ANALGESICS IN ELDERLY PATIENTS
+
+3.1 Indications
+
+In elderly patients with moderate to severe pain inadequately controlled by non-opioid analgesics, opioids may be appropriate. Their use should always be accompanied by a comprehensive geriatric risk assessment.
+
+3.2 Starting Doses
+
+The adage "start low, go slow" is mandatory in this population. Initial opioid doses should be 25–50% of the standard adult dose. Dose titration should occur no more frequently than every 48–72 hours.
+
+Preferred agents: short-acting morphine, oxycodone, and hydromorphone at reduced doses. Avoid: meperidine (normeperidine accumulation risk), tramadol in patients with seizure risk or on serotonergic medications, long-acting formulations for opioid-naive patients.
+
+3.3 Morphine Equivalent Dose Thresholds — Elderly
+
+The MED caution threshold is reduced to 30 MED/day for patients over 65, compared to 50 MED/day in the general adult guidelines. Geriatric specialist consultation is recommended before exceeding this threshold.
+
+CHAPTER 4: DOSING INTERVALS — ELDERLY PATIENTS
+
+4.1 Extended Dosing Intervals
+
+Due to reduced renal and hepatic clearance, most analgesics require longer dosing intervals in elderly patients.
+
+For ibuprofen and short-acting NSAIDs, dosing every 8 hours is recommended as the minimum interval — shorter intervals (e.g., every 6 hours as used in younger adults) should not be used in patients over 65, as this will result in drug accumulation and elevated plasma levels.
+
+4.2 Renal-Based Dose Adjustment
+
+Estimated GFR should guide analgesic dosing:
+- GFR 30–60 mL/min: reduce NSAID dose by 25–50%, monitor closely
+- GFR < 30 mL/min: NSAIDs are contraindicated
+- For opioids: reduce initial dose by 25–50% and extend dosing intervals
+
+CHAPTER 5: POLYPHARMACY CONSIDERATIONS
+
+Elderly patients frequently take five or more medications (polypharmacy). Before prescribing any analgesic:
+- Review the complete medication list for interactions
+- Assess for concurrent anticoagulant use (NSAIDs + warfarin → significantly increased bleeding risk)
+- Check for other nephrotoxic agents (ACE inhibitors + NSAIDs + diuretics = "triple whammy" nephrotoxicity)
+- Consider drug-drug interactions with antidepressants, antihypertensives, and antiepileptics
+
+CHAPTER 6: FALL RISK AND CNS EFFECTS
+
+All analgesics in elderly patients should be evaluated for their contribution to fall risk:
+- Opioids: sedation, cognitive impairment, orthostatic hypotension
+- NSAIDs: fluid retention can increase antihypertensive medication requirements
+- Acetaminophen: generally neutral for fall risk
+
+Prescribers should document fall risk assessment before initiating opioid or sedating analgesic therapy. Fall prevention measures should be implemented concurrently.
+
+APPENDIX A: BEERS CRITERIA SUMMARY FOR ANALGESICS
+[See attached reference — American Geriatrics Society 2023 Update]
+
+APPENDIX B: GERIATRIC PAIN ASSESSMENT TOOLS
+[Abbey Pain Scale, PAINAD scale for patients with dementia]

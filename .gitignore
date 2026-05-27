@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# vector db gets rebuilt on each run
+**/.contradiction_db/
+
+# temp corpus dirs from streamlit uploads
+/tmp/contradiction_corpus_*/

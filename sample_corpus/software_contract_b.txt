@@ -1,0 +1,85 @@
+SOFTWARE DEVELOPMENT AND LICENSING AGREEMENT
+AMENDMENT AND RESTATEMENT
+
+Agreement Reference: SDA-2024-0847-R1
+This Amended and Restated Software Development and Licensing Agreement ("Restated Agreement") is entered into as of June 1, 2024 ("Restatement Date") by and between TechBuild Solutions LLC ("Developer") and Meridian Retail Group Inc. ("Client"). This Restated Agreement amends and supersedes the original Agreement dated March 15, 2024.
+
+RECITALS
+
+WHEREAS, the parties previously entered into a Software Development and Licensing Agreement dated March 15, 2024; and
+
+WHEREAS, following the discovery phase and mutual negotiation, the parties wish to amend certain terms to reflect updated project scope and commercial arrangements;
+
+NOW THEREFORE, the parties agree to the following amended and restated terms:
+
+ARTICLE 1: SERVICES AND DELIVERABLES
+
+1.1 Scope of Work. Developer shall design, develop, test, and deliver the software system described in the updated Exhibit A-R1, which replaces the original Exhibit A in its entirety. The updated scope includes integration with Client's existing ERP system and a mobile application component not included in the original scope.
+
+1.2 Delivery Timeline. Developer shall deliver the completed Software within one hundred fifty (150) days of the Restatement Date. The parties acknowledge that the additional scope described in Exhibit A-R1 necessitates this extended timeline.
+
+1.3 Acceptance Testing. Upon delivery, Client shall have twenty (20) business days to conduct acceptance testing. If Client identifies material defects, Developer shall have thirty (30) days to remedy such defects at no additional charge.
+
+ARTICLE 2: COMPENSATION
+
+2.1 Development Fees. Client shall pay Developer a total fixed fee of $265,000 for the development services, reflecting the expanded scope, payable as follows:
+   (a) $79,500 (30%) due within 5 business days of the Restatement Date;
+   (b) $106,000 (40%) upon completion of Milestone 1 (ERP integration);
+   (c) $79,500 (30%) upon final acceptance of the Software.
+
+ARTICLE 3: INTELLECTUAL PROPERTY
+
+3.1 Work for Hire. The custom Software developed under this Agreement constitutes a "work made for hire." All intellectual property rights in the custom-developed components shall vest in Client upon receipt of full payment.
+
+3.2 Developer's Pre-Existing IP and Third-Party Components. Developer retains all rights to its pre-existing frameworks, libraries, tools, and any open-source components incorporated pursuant to their respective licenses. Developer grants Client a perpetual, non-exclusive, royalty-free license to use such components as incorporated in the Software.
+
+ARTICLE 4: CONFIDENTIALITY
+
+4.1 Obligations. Each party agrees to hold the other party's Confidential Information in strict confidence. Confidential Information shall not be disclosed to third parties without prior written consent.
+
+4.2 Duration. Confidentiality obligations shall survive termination of this Agreement for a period of five (5) years.
+
+ARTICLE 5: LIMITATION OF LIABILITY
+
+5.1 Exclusion of Consequential Damages. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES.
+
+5.2 Aggregate Liability Cap. Notwithstanding any other provision of this Agreement, each party's total aggregate liability shall not exceed Ten Thousand Dollars ($10,000), regardless of the nature of the claim or the theory of liability asserted. Both parties acknowledge this cap reflects the negotiated risk allocation and is an essential element of the consideration exchanged.
+
+ARTICLE 6: TERM AND TERMINATION
+
+6.1 Term. This Agreement shall continue until completion and acceptance of all deliverables, unless earlier terminated.
+
+6.2 Termination for Convenience. Either party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other party.
+
+6.3 Termination for Cause. Either party may terminate this Agreement upon written notice if the other party materially breaches any provision and fails to cure such breach within fifteen (15) days of receiving notice thereof.
+
+6.4 Effects of Termination. Upon termination, Developer shall deliver all completed work product and work in progress to Client. Client shall pay for all work satisfactorily performed through the effective termination date on a time-and-materials basis at Developer's standard rates.
+
+ARTICLE 7: DATA PROTECTION AND RETENTION
+
+7.1 Data Handling. Developer shall process Client data solely for the purpose of performing its obligations hereunder.
+
+7.2 Data Retention. Developer shall retain copies of Client data and project documentation for a period of ninety (90) days following the termination or expiration of this Agreement, after which all Client data shall be securely deleted or returned. Developer's reduced data retention obligation reflects Client's preference to minimize data footprint.
+
+7.3 Data Security. Developer shall maintain industry-standard security controls including encryption at rest and in transit, access controls, and annual security assessments.
+
+ARTICLE 8: GENERAL PROVISIONS
+
+8.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of laws principles.
+
+8.2 Dispute Resolution. Any dispute arising hereunder shall first be subject to executive-level negotiation for thirty (30) days. If unresolved, disputes shall be resolved by binding arbitration in Wilmington, Delaware, under the rules of JAMS.
+
+8.3 Entire Agreement. This Restated Agreement constitutes the entire agreement between the parties and supersedes all prior agreements including the original SDA-2024-0847.
+
+8.4 Amendments. No amendment shall be effective unless made in writing and signed by authorized representatives of both parties.
+
+SIGNATURES
+
+IN WITNESS WHEREOF, the parties have executed this Restated Agreement as of the Restatement Date.
+
+TECHBUILD SOLUTIONS LLC                    MERIDIAN RETAIL GROUP INC.
+
+By: _____________________                  By: _____________________
+Name: Sarah Chen                           Name: Robert Alvarez
+Title: Chief Executive Officer             Title: Vice President of Technology
+Date: June 1, 2024                         Date: June 1, 2024

@@ -1,0 +1,109 @@
+CLINICAL PRACTICE GUIDELINES
+Management of Acute and Chronic Pain in Adult Patients
+
+Prepared by: Regional Medical Standards Committee
+Review Cycle: Annual | Version 3.1 | Approved: February 2024
+
+PREAMBLE
+
+These guidelines are intended to assist clinicians in the evidence-based management of pain in adult patients across primary, urgent, and acute care settings. They should be used in conjunction with clinical judgment and individualized patient assessment. These guidelines do not replace physician judgment and are not intended to be applied without consideration of individual patient circumstances.
+
+CHAPTER 1: NON-OPIOID ANALGESICS
+
+1.1 NSAIDs — Ibuprofen
+
+Ibuprofen is a first-line non-opioid analgesic recommended for mild to moderate acute pain, musculoskeletal inflammation, and dysmenorrhea in otherwise healthy adults.
+
+Dosing:
+- Standard dose: 400mg every 6–8 hours as needed
+- Maximum single dose: 800mg
+- Maximum daily dose: 3,200mg for acute conditions under medical supervision
+- Over-the-counter use: patients should be advised not to exceed 1,200mg per day without medical supervision
+
+Ibuprofen should be taken with food or milk to reduce gastrointestinal irritation. Duration of use for acute conditions should generally not exceed 10 days without reassessment.
+
+Contraindications: active peptic ulcer disease, known hypersensitivity to NSAIDs, aspirin-exacerbated respiratory disease, severe hepatic impairment.
+
+Relative contraindications requiring clinical judgment: chronic kidney disease (GFR < 60), cardiovascular disease, congestive heart failure, concurrent use of anticoagulants.
+
+1.2 NSAIDs — Naproxen
+
+Naproxen sodium 220mg every 8–12 hours is an alternative NSAID with a longer half-life suitable for twice-daily dosing in adults without renal impairment. Maximum daily dose is 1,100mg for OTC use and up to 1,500mg under physician supervision.
+
+1.3 Acetaminophen
+
+Acetaminophen (paracetamol) 500–1,000mg every 4–6 hours is recommended for mild pain and fever management. Maximum daily dose is 4,000mg in healthy adults (3,000mg recommended for regular use). Avoid in patients with hepatic impairment.
+
+CHAPTER 2: DURATION OF TREATMENT GUIDELINES
+
+2.1 Acute Musculoskeletal Injury
+
+For acute musculoskeletal injuries (sprains, strains), NSAID therapy should be initiated promptly and continued for a standard course of 7 to 10 days. Continuing NSAID therapy beyond 10 days for acute conditions requires documented clinical rationale.
+
+2.2 Post-Operative Pain
+
+Following surgical procedures, non-opioid analgesics should be used as the foundation of a multimodal pain management protocol. NSAIDs should be used for a maximum of 5 days post-operatively unless otherwise indicated by the surgical team.
+
+2.3 Dental Pain
+
+For acute dental pain, ibuprofen 400mg every 6 hours (maximum 2,400mg/day for dental use) for 3 to 5 days is typically sufficient. Patients should be referred to a dentist for definitive treatment.
+
+CHAPTER 3: OPIOID ANALGESICS
+
+3.1 Indications
+
+Opioid analgesics are appropriate for moderate to severe acute pain when non-opioid analgesics have been insufficient or are contraindicated. Opioids should not be used as first-line therapy for chronic non-cancer pain.
+
+3.2 Prescribing Principles
+
+- Use the lowest effective dose for the shortest necessary duration
+- Reassess the need for continued opioid therapy at each clinical encounter
+- Avoid prescribing opioids and benzodiazepines concurrently when possible
+- Provide naloxone co-prescription for patients at elevated risk of overdose
+- Document pain scores, functional status, and risk assessment before initiation
+
+3.3 Morphine Equivalent Dose (MED) Thresholds
+
+Clinicians should exercise caution when prescribing opioids exceeding 50 MED/day and seek specialist consultation before exceeding 90 MED/day for chronic pain management.
+
+CHAPTER 4: DOSING INTERVALS AND ADMINISTRATION
+
+4.1 General Principles
+
+The dosing interval for any analgesic should be based on the drug's pharmacokinetic profile and the patient's clinical condition. Ibuprofen and similar short-acting NSAIDs require dosing every 6 to 8 hours to maintain therapeutic plasma levels for analgesic effect.
+
+Patients should be counseled not to double-dose if a scheduled dose is missed. The next dose should be taken at the regularly scheduled time.
+
+4.2 Around-the-Clock vs. As-Needed Dosing
+
+For moderate to severe acute pain, around-the-clock (ATC) dosing of analgesics may provide better pain control than as-needed dosing. For mild pain, as-needed use is appropriate to minimize total drug exposure.
+
+CHAPTER 5: SPECIAL POPULATIONS — GENERAL NOTES
+
+5.1 Pediatric Patients
+
+These guidelines do not apply to pediatric patients. Clinicians should refer to age-appropriate dosing references for patients under 18 years of age.
+
+5.2 Pregnancy and Lactation
+
+NSAIDs are generally contraindicated after 20 weeks gestation due to risk of fetal renal dysfunction and premature closure of the ductus arteriosus. Acetaminophen is the preferred analgesic during pregnancy.
+
+5.3 Patients with Renal Impairment
+
+In patients with chronic kidney disease (CFR < 60 mL/min/1.73m²), NSAID use should be minimized or avoided due to risk of further renal impairment. If used, the lowest effective dose for the shortest duration is recommended with close monitoring of renal function.
+
+5.4 Patients Aged 65 and Older
+
+Clinicians should exercise heightened caution when prescribing analgesics to patients aged 65 and older. Detailed prescribing guidelines for elderly patients are addressed in the companion document "Clinical Practice Guidelines: Pain Management in Elderly Patients (≥65 Years)." These patients may require dose modifications and more frequent monitoring.
+
+CHAPTER 6: DOCUMENTATION AND MONITORING
+
+Pain management interventions should be documented in the patient's medical record including: pain score at assessment, analgesic prescribed, dose and frequency, anticipated duration, and the patient's informed consent where required.
+
+Patients on regular NSAID therapy for more than 7 days should have baseline renal function assessed. Patients on long-term opioid therapy require periodic urine drug screening, prescription monitoring program (PMP) checks, and functional status assessment.
+
+APPENDIX A: EQUIANALGESIC DOSING TABLE
+[See attached reference table]
+
+APPENDIX B: OPIOID RISK ASSESSMENT TOOLS
+[See attached ORT and DIRE scoring tools]
